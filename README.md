@@ -16,5 +16,6 @@ A multilayer perceptron is a basic neural networks that uses backpropagation to 
 3. Regressions models from sklearn, LGB
 4. ARIMA
 
-Public LB : 108 Rank 
-Private LB : 106 Rank
+
+#### Public LB : 108 Rank 
+#### Private LB : 106 Rank
