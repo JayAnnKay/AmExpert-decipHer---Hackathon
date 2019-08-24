@@ -7,7 +7,7 @@ Customer-Credit-Card-transaction-predicition -- To Predict average credit card s
 A dictionary data has been attached to understand the variables better. 
 
 ### Model used for prediction:
-Multilayer Perceptron Model
+Multilayer Perceptron Model: 
 A multilayer perceptron is a basic neural networks that uses backpropagation to learn from the training dataset. 
 
 ### TODO : 
